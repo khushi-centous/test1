@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 testtttt
+khushii
 # Distribution / packaging
 .Python
 build/
